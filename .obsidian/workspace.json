@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "b4a330f782411552",
+    "type": "split",
+    "children": [
+      {
+        "id": "55ea85781eb79ed3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37c6901e08e421a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/인터페이스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ee8e26cfdef995e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로세스.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22480fd7643860d9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f14f466f15263092",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f999bee7b2eecfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "542a32f94a69ba05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5d3c0c1be2057b82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8f0669456d365eb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "92fcb9d602b36712",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1dc31bcaa54ef6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d932b87f13861295",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46f8f967ad9880e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f38ec7aad1ea5e50",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dee7c5b5c23866f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "542a32f94a69ba05",
+  "lastOpenFiles": [
+    "2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/4차 산업혁명.md",
+    "2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/산업혁명.md",
+    "2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/1차 ~ 4차 산업혁명 요약.md",
+    "2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/3차 산업혁명.md",
+    "2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/1차 산업혁명.md",
+    "2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/2차 산업혁명.md",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크/키워드/네트워크.md",
+    "프로세스.md",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/시스템.md",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/전송 매체.md",
+    "1. Capture 임시 저장소/1 - 2. Capture(Reference) 참조, 소스/웹/Network Basic - 브런치 스토리.md",
+    "4. Express 출판, 최종 저장소/알고리즘/데이터/데이터 구조/데이터 구조.md",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크/키워드/온라인.md",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크/키워드/연결.md",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크/키워드/공유.md",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크/알고리즘/페이지 랭크.md",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/IP 주소.md",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/탈중앙 시스템.md",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/중앙 시스템.md",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/인터페이스.md",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/인터넷.md",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/웹.md",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/소켓.md",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/사물 인터넷.md",
+    "1. Capture 임시 저장소/1 - 2. Capture(Reference) 참조, 소스/앱/알고리즘 도감.md",
+    "1. Capture 임시 저장소/1 - 2. Capture(Reference) 참조, 소스/독서/패킷이 보이는 네트워크 프로토콜과 실무형 예제로 익히는 네트워크 프로그래밍.md",
+    "1. Capture 임시 저장소/1 - 2. Capture(Reference) 참조, 소스/웹",
+    "2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크/키워드",
+    "4. Express 출판, 최종 저장소/알고리즘/네트워크",
+    "4. Express 출판, 최종 저장소/알고리즘/데이터/데이터 시스템",
+    "4. Express 출판, 최종 저장소/알고리즘/보안/보안 시스템",
+    "2. Organize 영구노트/2 - 3. Resource 자료/네트워크/네트워크 행동",
+    "2. Organize 영구노트/2 - 3. Resource 자료/네트워크/네트워크 시스템",
+    "4. Express 출판, 최종 저장소/알고리즘/데이터/탐색",
+    "무제 파일.canvas"
+  ]
+}

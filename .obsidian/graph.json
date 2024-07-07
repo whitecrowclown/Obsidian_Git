@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"4. Express 출판, 최종 저장소/알고리즘/네트워크\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"4. Express 출판, 최종 저장소/알고리즘/데이터\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"4. Express 출판, 최종 저장소/알고리즘/보안\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"4. Express 출판, 최종 저장소/알고리즘/수학\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"4. Express 출판, 최종 저장소/알고리즘/재귀\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"4. Express 출판, 최종 저장소/알고리즘/클러스터링\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"1. Capture 임시 저장소/1 - 2. Capture(Reference) 참조, 소스\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7536895
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.67390852390852,
+  "lineSizeMultiplier": 1.06268191268191,
+  "collapse-forces": false,
+  "centerStrength": 0.167359667359667,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 193,
+  "scale": 0.08653982201102518,
+  "close": false
+}
