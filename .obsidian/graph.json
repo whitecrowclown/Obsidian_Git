@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 7536895
       }
+    },
+    {
+      "query": "path:프로그램  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": false,
@@ -64,9 +71,9 @@
   "lineSizeMultiplier": 1.06268191268191,
   "collapse-forces": false,
   "centerStrength": 0.167359667359667,
-  "repelStrength": 20,
-  "linkStrength": 1,
+  "repelStrength": 9.08523908523909,
+  "linkStrength": 0.853430353430353,
   "linkDistance": 193,
-  "scale": 0.08653982201102518,
-  "close": false
+  "scale": 0.6899302258821695,
+  "close": true
 }

@@ -13,34 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/인터페이스.md",
+                "file": "프로그램/노드 그룹화.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7ee8e26cfdef995e",
+            "id": "ab940ec96e057f25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로세스.md",
+                "file": "프로그램/내부 프로세스/빈 노트 정리.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "22480fd7643860d9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "프로그램/내부 프로세스/빈 노트 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "프로그램/내부 프로세스/빈 노트 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "프로그램/내부 프로세스/빈 노트 정리.md"
+              }
             }
           }
         ],
@@ -164,44 +160,43 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "542a32f94a69ba05",
+  "active": "ab940ec96e057f25",
   "lastOpenFiles": [
-    "2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/4차 산업혁명.md",
-    "2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/산업혁명.md",
-    "2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/1차 ~ 4차 산업혁명 요약.md",
-    "2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/3차 산업혁명.md",
-    "2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/1차 산업혁명.md",
-    "2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/2차 산업혁명.md",
-    "4. Express 출판, 최종 저장소/알고리즘/네트워크/키워드/네트워크.md",
-    "프로세스.md",
-    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/시스템.md",
-    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/전송 매체.md",
-    "1. Capture 임시 저장소/1 - 2. Capture(Reference) 참조, 소스/웹/Network Basic - 브런치 스토리.md",
-    "4. Express 출판, 최종 저장소/알고리즘/데이터/데이터 구조/데이터 구조.md",
-    "4. Express 출판, 최종 저장소/알고리즘/네트워크/키워드/온라인.md",
-    "4. Express 출판, 최종 저장소/알고리즘/네트워크/키워드/연결.md",
-    "4. Express 출판, 최종 저장소/알고리즘/네트워크/키워드/공유.md",
-    "4. Express 출판, 최종 저장소/알고리즘/네트워크/알고리즘/페이지 랭크.md",
-    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/IP 주소.md",
-    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/탈중앙 시스템.md",
-    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/중앙 시스템.md",
+    "프로그램/프로그램 계획서.md",
+    "프로그램/내부 프로세스/node_context.py",
+    "프로그램/노드 그룹화.md",
+    "프로그램/내부 프로세스/노드 양방향 정리.md",
+    "프로그램/내부 프로세스/내부 프로세스.md",
+    "프로그램/외부 프로세스/출력/아날로그 출력.md",
+    "프로그램/외부 프로세스/출력/디지털 출력.md",
+    "프로그램/외부 프로세스/입력/아날로그 입력.md",
+    "프로그램/외부 프로세스/입력/디지털 입력.md",
+    "프로그램/내부 프로세스/빈 노트 정리.md",
     "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/인터페이스.md",
-    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/인터넷.md",
-    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/웹.md",
-    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/소켓.md",
-    "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/사물 인터넷.md",
-    "1. Capture 임시 저장소/1 - 2. Capture(Reference) 참조, 소스/앱/알고리즘 도감.md",
-    "1. Capture 임시 저장소/1 - 2. Capture(Reference) 참조, 소스/독서/패킷이 보이는 네트워크 프로토콜과 실무형 예제로 익히는 네트워크 프로그래밍.md",
+    "4. Express 출판, 최종 저장소/알고리즘/데이터/데이터 구조/리스트.md",
+    "프로그램/외부 프로세스/출력/출력.md",
+    "프로그램/외부 프로세스/입력/입력.md",
+    "프로그램/외부 프로세스/외부 프로세스.md",
+    "프로그램/외부 프로세스/출력",
+    "프로그램/외부 프로세스/입력",
+    "프로그램/외부 프로세스",
+    "프로그램/내부 프로세스",
+    "프로그램",
+    "4. Express 출판, 최종 저장소/알고리즘/데이터/데이터 구조/데이터 구조.md",
+    "4. Express 출판, 최종 저장소/알고리즘/데이터/탐색/그래프 탐색/그래프 탐색.md",
+    "4. Express 출판, 최종 저장소/알고리즘/데이터/정렬/힙 정렬.md",
+    "4. Express 출판, 최종 저장소/알고리즘/데이터/정렬/퀵 정렬.md",
+    "4. Express 출판, 최종 저장소/알고리즘/데이터/정렬/정렬.md",
+    "4. Express 출판, 최종 저장소/알고리즘/데이터/정렬/선택 정렬.md",
+    "4. Express 출판, 최종 저장소/알고리즘/데이터/정렬/삽입 정렬.md",
+    "4. Express 출판, 최종 저장소/알고리즘/데이터/정렬/병합 정렬.md",
+    "4. Express 출판, 최종 저장소/알고리즘/데이터/정렬/버블 정렬.md",
+    "4. Express 출판, 최종 저장소/알고리즘/데이터/데이터 키워드/처리.md",
+    "4. Express 출판, 최종 저장소/알고리즘/데이터/데이터 키워드/정보.md",
     "1. Capture 임시 저장소/1 - 2. Capture(Reference) 참조, 소스/웹",
     "2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명",
     "4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템",
     "4. Express 출판, 최종 저장소/알고리즘/네트워크/키워드",
-    "4. Express 출판, 최종 저장소/알고리즘/네트워크",
-    "4. Express 출판, 최종 저장소/알고리즘/데이터/데이터 시스템",
-    "4. Express 출판, 최종 저장소/알고리즘/보안/보안 시스템",
-    "2. Organize 영구노트/2 - 3. Resource 자료/네트워크/네트워크 행동",
-    "2. Organize 영구노트/2 - 3. Resource 자료/네트워크/네트워크 시스템",
-    "4. Express 출판, 최종 저장소/알고리즘/데이터/탐색",
     "무제 파일.canvas"
   ]
 }
