@@ -4,30 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "55ea85781eb79ed3",
+        "id": "a34477976f25f2c5",
         "type": "tabs",
-        "dimension": 68.10193321616872,
+        "dimension": 51.65562913907284,
         "children": [
           {
             "id": "37c6901e08e421a4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "데이터/2. Organize 영구노트/2 - 3. Resource 자료/소프트웨어/프로젝트.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
       },
       {
-        "id": "7b8bbca3ba3997dd",
+        "id": "55ea85781eb79ed3",
         "type": "tabs",
-        "dimension": 31.89806678383128,
+        "dimension": 48.34437086092716,
         "children": [
           {
-            "id": "2d59344f7ce683f5",
+            "id": "f621e9b62cf6bdab",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -81,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 284.5
   },
   "right": {
     "id": "92fcb9d602b36712",
@@ -97,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "데이터/2. Organize 영구노트/2 - 3. Resource 자료/소프트웨어/프로젝트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "데이터/2. Organize 영구노트/2 - 3. Resource 자료/소프트웨어/프로젝트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "데이터/2. Organize 영구노트/2 - 3. Resource 자료/소프트웨어/프로젝트.md"
+              }
             }
           }
         ],
@@ -157,42 +165,42 @@
   },
   "active": "37c6901e08e421a4",
   "lastOpenFiles": [
-    "프로그램/프로그램 계획서.md",
-    "TTS 프로그램 계획서.md",
-    "TTS 프로그램.md",
-    "프로그램/외부 프로세스/출력/아날로그 출력/아날로그 출력.md",
+    "데이터/1. Capture 임시 저장소/1 - 1. Capture(Inbox) 임시메모/Empty File.md",
+    "데이터/2. Organize 영구노트/2 - 3. Resource 자료/소프트웨어/프로젝트.md",
+    "데이터/1. Capture 임시 저장소/1 - 2. Capture(Reference) 참조, 소스/웹/Network Basic - 브런치 스토리.md",
+    "데이터/2. Organize 영구노트/2 - 3. Resource 자료/소프트웨어/소프트웨어.md",
+    "데이터/4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/전송 매체.md",
+    "데이터/4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/인터넷.md",
+    "데이터/4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/인터페이스.md",
+    "데이터/4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/시스템.md",
+    "데이터/2. Organize 영구노트/2 - 3. Resource 자료/하드웨어/컴퓨터.md",
+    "데이터/4. Express 출판, 최종 저장소/알고리즘/네트워크/키워드/네트워크.md",
+    "데이터/기타/write.md",
+    "데이터/기타/read.md",
+    "데이터/기타/open.md",
+    "데이터/기타/IPC.md",
+    "데이터/기타/close.md",
+    "데이터/기타/프로세스.md",
+    "데이터/기타/표준화.md",
+    "데이터/기타/파일 디스크립터.md",
+    "데이터/기타/클러스터.md",
+    "데이터/4. Express 출판, 최종 저장소/알고리즘/알고리즘.md",
+    "데이터/4. Express 출판, 최종 저장소/알고리즘/클러스터링/k-means법.md",
+    "데이터/4. Express 출판, 최종 저장소/알고리즘/클러스터링/클러스터링.md",
+    "데이터/4. Express 출판, 최종 저장소/알고리즘/재귀/하노이의 탑.md",
+    "데이터/4. Express 출판, 최종 저장소/알고리즘/재귀/재귀.md",
+    "데이터/4. Express 출판, 최종 저장소/알고리즘/수학/최솟값.md",
+    "데이터/4. Express 출판, 최종 저장소/알고리즘/수학/유클리드 호제법.md",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/total_cut_index/Length_movie.py",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/total_cut_index/one_cut.py",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/total_cut.py",
-    "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/TTS 프로그램 계획서.md",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/total_cut_index",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/movie_to_voice.py",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/Download_Youtube.py",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/audio.py",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램",
     "프로그램/외부 프로세스/출력/아날로그 출력",
-    "데이터/TTS용 데이터/남자/1980/플레임/플레임.md",
     "데이터/4. Express 출판, 최종 저장소/TTS 프로그램/movie_to_voice.py",
-    "데이터/4. Express 출판, 최종 저장소/TTS 프로그램/TTS 프로그램 계획서 .md",
-    "데이터/TTS용 데이터/TTS 프로그램 계획서 .md",
-    "데이터/TTS용 데이터/TTS용 데이터.md",
-    "데이터/TTS용 데이터/TTS 프로그램 .md",
-    "하알라.md",
-    "데이터/TTS용 데이터/유튜브 다운로더/videos/태번 마스터 제작진의 또다른 후속작 - 대장장이 마스터/태번 마스터 제작진의 또다른 후속작 - 대장장이 마스터.md",
-    "데이터/TTS용 데이터/유튜브 다운로더/videos/분할/태번 마스터 제작진의 또다른 후속작 - 대장장이 마스터.md",
-    "데이터/TTS용 데이터/유튜브 다운로더/videos/태번 마스터 제작진의 또다른 후속작 - 대장장이 마스터.md",
-    "데이터/TTS용 데이터/한글 공부 시키기/피타입/광화문/피타입 광화문.md",
-    "데이터/TTS용 데이터/한글 공부 시키기/피타입/Do The Right Rap/Do The Right Rap.md",
-    "데이터/TTS용 데이터/한글 공부 시키기/피타입/광화문/피타입 광화문 0110.md",
-    "데이터/TTS용 데이터/한글 공부 시키기/피타입/광화문/피타입 광화문 0100.md",
-    "데이터/TTS용 데이터/한글 공부 시키기/피타입/광화문/피타입 광화문 0050.md",
-    "데이터/TTS용 데이터/한글 공부 시키기/피타입/광화문/피타입 광화문 0040.md",
-    "데이터/TTS용 데이터/한글 공부 시키기/피타입/광화문/피타입 광화문 0030.md",
-    "데이터/TTS용 데이터/한글 공부 시키기/피타입/광화문/피타입 광화문 0020.md",
-    "데이터/TTS용 데이터/한글 공부 시키기/피타입/피타입.md",
-    "데이터/TTS용 데이터/남자/1970/전한길/6.25 전쟁/6.25 1/6.25 1.md",
-    "데이터/TTS용 데이터/남자/1970/전한길/6.25 전쟁/6.25 2/6.25 2.md",
-    "데이터/TTS용 데이터/남자/1970/전한길/6.25 전쟁/6.25 4/6.25 4.md",
     "무제 파일.canvas"
   ]
 }
