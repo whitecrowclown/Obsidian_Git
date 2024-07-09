@@ -12,12 +12,8 @@
             "id": "37c6901e08e421a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TTS 프로그램.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 290.5
   },
   "right": {
     "id": "92fcb9d602b36712",
@@ -101,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TTS 프로그램.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTS 프로그램.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TTS 프로그램.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -163,21 +155,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "542a32f94a69ba05",
+  "active": "37c6901e08e421a4",
   "lastOpenFiles": [
+    "프로그램/프로그램 계획서.md",
+    "TTS 프로그램 계획서.md",
+    "TTS 프로그램.md",
     "프로그램/외부 프로세스/출력/아날로그 출력/아날로그 출력.md",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/total_cut_index/Length_movie.py",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/total_cut_index/one_cut.py",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/total_cut.py",
-    "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/TTS 프로그램 계획서 .md",
+    "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/TTS 프로그램 계획서.md",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/total_cut_index",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/movie_to_voice.py",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/Download_Youtube.py",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/audio.py",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램",
     "프로그램/외부 프로세스/출력/아날로그 출력",
-    "프로그램/프로그램 계획서.md",
-    "TTS 프로그램.md",
     "데이터/TTS용 데이터/남자/1980/플레임/플레임.md",
     "데이터/4. Express 출판, 최종 저장소/TTS 프로그램/movie_to_voice.py",
     "데이터/4. Express 출판, 최종 저장소/TTS 프로그램/TTS 프로그램 계획서 .md",
@@ -200,7 +193,6 @@
     "데이터/TTS용 데이터/남자/1970/전한길/6.25 전쟁/6.25 1/6.25 1.md",
     "데이터/TTS용 데이터/남자/1970/전한길/6.25 전쟁/6.25 2/6.25 2.md",
     "데이터/TTS용 데이터/남자/1970/전한길/6.25 전쟁/6.25 4/6.25 4.md",
-    "데이터/TTS용 데이터/남자/1970/전한길/6.25 전쟁/6.25 3/6.25 3.md",
     "무제 파일.canvas"
   ]
 }
