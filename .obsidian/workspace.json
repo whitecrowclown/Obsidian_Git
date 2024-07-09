@@ -4,38 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a34477976f25f2c5",
-        "type": "tabs",
-        "dimension": 51.65562913907284,
-        "children": [
-          {
-            "id": "37c6901e08e421a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터/2. Organize 영구노트/2 - 3. Resource 자료/소프트웨어/프로젝트.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "55ea85781eb79ed3",
         "type": "tabs",
-        "dimension": 48.34437086092716,
         "children": [
           {
             "id": "f621e9b62cf6bdab",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "데이터/1. Capture 임시 저장소/1 - 1. Capture(Inbox) 임시메모/Empty File.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ac190392756e504",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "데이터/2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/산업혁명.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터/2. Organize 영구노트/2 - 3. Resource 자료/소프트웨어/프로젝트.md",
+                "file": "데이터/2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/산업혁명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터/2. Organize 영구노트/2 - 3. Resource 자료/소프트웨어/프로젝트.md",
+                "file": "데이터/2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/산업혁명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터/2. Organize 영구노트/2 - 3. Resource 자료/소프트웨어/프로젝트.md"
+                "file": "데이터/2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/산업혁명.md"
               }
             }
           }
@@ -163,34 +160,34 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "37c6901e08e421a4",
+  "active": "8ac190392756e504",
   "lastOpenFiles": [
-    "데이터/1. Capture 임시 저장소/1 - 1. Capture(Inbox) 임시메모/Empty File.md",
-    "데이터/2. Organize 영구노트/2 - 3. Resource 자료/소프트웨어/프로젝트.md",
-    "데이터/1. Capture 임시 저장소/1 - 2. Capture(Reference) 참조, 소스/웹/Network Basic - 브런치 스토리.md",
-    "데이터/2. Organize 영구노트/2 - 3. Resource 자료/소프트웨어/소프트웨어.md",
-    "데이터/4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/전송 매체.md",
-    "데이터/4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/인터넷.md",
-    "데이터/4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/인터페이스.md",
-    "데이터/4. Express 출판, 최종 저장소/알고리즘/네트워크/시스템/시스템.md",
-    "데이터/2. Organize 영구노트/2 - 3. Resource 자료/하드웨어/컴퓨터.md",
-    "데이터/4. Express 출판, 최종 저장소/알고리즘/네트워크/키워드/네트워크.md",
-    "데이터/기타/write.md",
-    "데이터/기타/read.md",
-    "데이터/기타/open.md",
-    "데이터/기타/IPC.md",
-    "데이터/기타/close.md",
-    "데이터/기타/프로세스.md",
-    "데이터/기타/표준화.md",
-    "데이터/기타/파일 디스크립터.md",
-    "데이터/기타/클러스터.md",
-    "데이터/4. Express 출판, 최종 저장소/알고리즘/알고리즘.md",
-    "데이터/4. Express 출판, 최종 저장소/알고리즘/클러스터링/k-means법.md",
-    "데이터/4. Express 출판, 최종 저장소/알고리즘/클러스터링/클러스터링.md",
-    "데이터/4. Express 출판, 최종 저장소/알고리즘/재귀/하노이의 탑.md",
-    "데이터/4. Express 출판, 최종 저장소/알고리즘/재귀/재귀.md",
-    "데이터/4. Express 출판, 최종 저장소/알고리즘/수학/최솟값.md",
-    "데이터/4. Express 출판, 최종 저장소/알고리즘/수학/유클리드 호제법.md",
+    "운영체계.md",
+    "응용 소프트웨어.md",
+    "Nokia.md",
+    "BlackBerry.md",
+    "휴대용 기기.md",
+    "통신.md",
+    "터치 스크린.md",
+    "4G.md",
+    "모니터링.md",
+    "멀티 터치 인터페이스.md",
+    "디지털.md",
+    "라이브 컨텐츠.md",
+    "오픈 소스 플랫폼.md",
+    "디지털 카메라.md",
+    "유선.md",
+    "시스템 소프트웨어.md",
+    "편집.md",
+    "압축.md",
+    "근거리 무선 통신.md",
+    "휴대폰.md",
+    "다운로드.md",
+    "노드.md",
+    "시계.md",
+    "가전 제품.md",
+    "연산 장치.md",
+    "파일 다운로드.md",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/total_cut_index/Length_movie.py",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/total_cut_index/one_cut.py",
     "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/total_cut.py",
