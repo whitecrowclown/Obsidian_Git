@@ -1,0 +1,56 @@
+# 컴퓨터란?
+[[입력]] 받은 [[데이터]]를 정해진 규칙대로 처리해서 처리 결과를 저장하고 출력하는 [[전자 장치]]이다.
+1. 컴퓨터는 [[데이터]]를 [[입력 장치]]를 통해 [[입력]]받는다.
+2. [[소프트웨어]] 및 [[애플리케이션]]을 통한 규칙
+3. [[중앙처리장치]]를 통해 [[연산]]을 수행한다.
+4. 처리 결과물을 [[기억 장치]]에 [[저장]]한다.
+5. 처리 결과물을 [[출력]] 장치를 통해 [[출력]]한다.
+# 컴퓨터의 구성요소
+## [[소프트웨어]]
+### [[시스템 소프트웨어]]
+[[응용 소프트웨어]]를 실행하기 위한 일종의 [[플랫폼]] 역할을 수행하며, [[하드웨어]]와 직접적으로 소통하며 [[하드웨어]] 장치들이 제대로 동작할 수 있도록 해준다.
+### [[응용 소프트웨어]]
+[[소프트웨어]]에서 [[시스템 소프트웨어]]를 제외한 모든 [[소프트웨어]]를 의미한다.
+## [[하드웨어]]
+### [[중앙처리장치]]
+프로그램의 실행과 데이터 처리를 담당하는 컴퓨터의 핵심 장치로, 프로세서라고도 한다.
+#### [[제어 장치]]
+[[CPU]]의 모든 동작과 [[데이터 흐름]]을 통제하고 관리한다.
+#### [[연산 장치]]
+[[프로그램]]에 기술되어져 있는 [[명령어]]를 수행한다.
+#### [[레지스터]]
+[[CPU]] 내에 존재하는 작고 바른 [[기억 장치]]
+### [[기억 장치]]
+[[CPU]]의 동작에 필요한 [[데이터]]들을 보관한다.
+#### [[보조기억장치]]
+반영구적으로 저장한다.
+읽고 쓰는 속도가 느리기 때문에 [[CPU]]와 직접적으로 소통하지 않는다.
+[[SSD]], [[HDD]]
+#### [[주기억장치]]
+[[프로그램]]을 수행하는 동안 필요한 모든 [[데이터]]들을 [[저장]]한다.
+[[데이터]]를 읽고 쓰는 속도가 빠르기 때문에 [[CPU]]와 직접적으로 소통한다.
+[[RAM]], [[ROM]]
+#### [[캐시메모리]]
+[[CPU]]가 사용한 [[데이터]]와 관련된 [[데이터]] 중, 재사용 가능성이 높은 [[데이터]]를 [[주기억장치]]로부터 미리 불러와서 대기시켜놓는 역할을 하여 매우 빠르다.
+### [[입력 장치]]
+사용자로부터 [[computer]] 내부로 [[데이터]]를 입력 받는 장치입니다.
+[[키보드]], [[마우스]], [[마이크]], [[트랙패드]] 등이 [[입력 장치]]에 속한다.
+### [[출력 장치]]
+[[computer]] 내부로부터 사용자에게 사람이 감각할 수 있는 형태로 [[데이터]]를 [[출력]]해주는 장치입니다.
+[[모니터]], [[스피커]], [[프린터]] 등이 [[출력 장치]]에 해당한다.
+# [[computer]]의 동작과정
+1. [[프로그램]] 실행시 [[운영체제]]가 [[보조기억장치]]에 [[저장]]되어 있던 [[프로그램]]을 [[주기억장치]]인 [[RAM]]에 [[로드]]시킨다. 이때 [[로드]]되는 시간을 [[로딩]]이라고 한다.
+2. [[로딩]]이 완료되면 [[모니터]]에 [[프로그램]]이 [[출력]]이 되는데 이렇게 [[실행]]되고 있는 [[프로그램]]을 [[프로세스]]라고 한다.
+3. 사용자는 [[입력 장치]]를 통해 [[데이터]]를 [[입력]]할 수 있고 [[CPU]]는 [[입력]]된 값을 [[해석]]하고, [[소스코드]]에 작성된 [[명령어]]들을 적용하여 동작한다.
+4. 동작이 완료된 [[데이터]]는 [[주기억장치]]에 [[저장]]되며, [[출력 장치]]를 통해 사용자에게 결과를 보여준다.
+
+Other forms: **[[computers]]**
+
+Unless you're living in a cave cut off from humanity, you've seen these electronic machines with a [[screen]], [[keyboard]], and brain that stores massive amounts of information.
+_[[Computers]]_ are ubiquitous in offices, airports, schools... even caves cut off from humanity.
+
+Though [[computers]] are a thoroughly modern invention, the root word that gave them their name dates all the way back to Roman times.
+Tech geeks dreamed up _[[computer]]_ by embellishing the English word _compute_, which means "to calculate." _Compute_, in turn, comes from Latin _com-_, "with" and _putare_, "to reckon." So, your [[computer]] is a [[device]] that helps you reckon — or think. It also comes in handy for [[email ]]and every type of entertainment imaginable.
+
+# 출처
+https://velog.io/@qowl880/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%99%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C

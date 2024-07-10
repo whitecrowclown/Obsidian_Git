@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f621e9b62cf6bdab",
+            "id": "a8ca899a3b88d8e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터/1. Capture 임시 저장소/1 - 1. Capture(Inbox) 임시메모/Empty File.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ac190392756e504",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터/2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/산업혁명.md",
+                "file": "목소리 추출기 계획서.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5
+    "width": 241.5
   },
   "right": {
     "id": "92fcb9d602b36712",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터/2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/산업혁명.md",
+                "file": "목소리 추출기 계획서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터/2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/산업혁명.md",
+                "file": "목소리 추출기 계획서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터/2. Organize 영구노트/2 - 3. Resource 자료/산업 혁명/산업혁명.md"
+                "file": "목소리 추출기 계획서.md"
               }
             }
           }
@@ -160,44 +147,44 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8ac190392756e504",
+  "active": "a8ca899a3b88d8e4",
   "lastOpenFiles": [
-    "운영체계.md",
-    "응용 소프트웨어.md",
-    "Nokia.md",
-    "BlackBerry.md",
-    "휴대용 기기.md",
-    "통신.md",
-    "터치 스크린.md",
-    "4G.md",
-    "모니터링.md",
-    "멀티 터치 인터페이스.md",
-    "디지털.md",
-    "라이브 컨텐츠.md",
-    "오픈 소스 플랫폼.md",
-    "디지털 카메라.md",
-    "유선.md",
-    "시스템 소프트웨어.md",
-    "편집.md",
-    "압축.md",
-    "근거리 무선 통신.md",
-    "휴대폰.md",
-    "다운로드.md",
-    "노드.md",
-    "시계.md",
-    "가전 제품.md",
-    "연산 장치.md",
-    "파일 다운로드.md",
-    "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/total_cut_index/Length_movie.py",
-    "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/total_cut_index/one_cut.py",
-    "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/total_cut.py",
-    "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/total_cut_index",
-    "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/movie_to_voice.py",
-    "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/Download_Youtube.py",
-    "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램/audio.py",
-    "프로그램/외부 프로세스/출력/아날로그 출력/TTS 프로그램",
-    "프로그램/외부 프로세스/출력/아날로그 출력",
-    "데이터/4. Express 출판, 최종 저장소/TTS 프로그램/movie_to_voice.py",
+    "나/소프트웨어/__pycache__/gui_program.cpython-312.pyc",
+    "나/소프트웨어/web_program.py",
+    "나/소프트웨어/file_program.py",
+    "나/소프트웨어/gui_program.py",
+    "나/소프트웨어/SimpleBrowser.py",
+    "나/소프트웨어/프로그래머스/SimpleBrowser.py",
+    "나/소프트웨어/프로그래머스/pip install tkhtmlview",
+    "나/소프트웨어/__pycache__/loading_bar.cpython-312.pyc",
+    "나/소프트웨어/__pycache__/download_button.cpython-312.pyc",
+    "나/소프트웨어/__pycache__/input_entry.cpython-312.pyc",
+    "나/소프트웨어/download_button.py",
+    "데이터/TTS용 데이터/TTS 프로그램 계획서 .md",
+    "나/소프트웨어/프로그램 계획서.md",
+    "목소리 추출기 계획서.md",
+    "세상/데이터/화폐/Bitcoin.md",
+    "internet.md",
+    "세상/하드웨어/하드웨어/hardware.md",
+    "세상/하드웨어/하드웨어/smartphone.md",
+    "세상/하드웨어/하드웨어/computer.md",
+    "Computers.md",
+    "email.md",
+    "message.md",
+    "세상/데이터/화폐/화폐.md",
+    "세상/데이터/화폐/누구나 쉽게 읽을 수 있는 IT 과학 이야기 블록 체인.md",
+    "세상/하드웨어/삼성/삼성.md",
+    "IT.md",
+    "세상/소프트웨어/알고리즘/데이터/데이터 압축/허프만 부호.md",
+    "세상/소프트웨어/알고리즘/수학/유클리드 호제법.md",
+    "세상/소프트웨어/알고리즘/데이터/탐색/그래프 탐색/너비 우선 탐색.md",
+    "세상/소프트웨어/알고리즘/데이터/탐색/리스트 탐색/리스트 탐색.md",
+    "세상/소프트웨어/알고리즘/데이터/탐색/리스트 탐색/이분 탐색.md",
+    "세상/소프트웨어/알고리즘/데이터/탐색/리스트 탐색/선형 탐색.md",
+    "탐색.md",
+    "세상/소프트웨어/알고리즘/데이터/정렬/정렬.md",
+    "세상/소프트웨어/알고리즘/데이터/정렬/버블 정렬.md",
+    "세상/소프트웨어/알고리즘/데이터/정렬/선택 정렬.md",
     "무제 파일.canvas"
   ]
 }

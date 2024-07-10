@@ -8,66 +8,45 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"4. Express 출판, 최종 저장소/알고리즘/네트워크\"  ",
+      "query": "path:나/데이터",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"4. Express 출판, 최종 저장소/알고리즘/데이터\"  ",
+      "query": "path:세상/데이터  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14701138
       }
     },
     {
-      "query": "path:\"4. Express 출판, 최종 저장소/알고리즘/보안\"  ",
+      "query": "path:나/소프트웨어  ",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "path:\"4. Express 출판, 최종 저장소/알고리즘/수학\"  ",
+      "query": "path:세상/소프트웨어  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 11657298
       }
     },
     {
-      "query": "path:\"4. Express 출판, 최종 저장소/알고리즘/재귀\"  ",
+      "query": "path:나/하드웨어  ",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "path:\"4. Express 출판, 최종 저장소/알고리즘/클러스터링\"  ",
+      "query": "path:세상/하드웨어  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "path:\"1. Capture 임시 저장소/1 - 2. Capture(Reference) 참조, 소스\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 7536895
-      }
-    },
-    {
-      "query": "path:\"프로그램/외부 프로세스\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16122884
-      }
-    },
-    {
-      "query": "path:\"프로그램/내부 프로세스\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 2818303
+        "rgb": 5431473
       }
     }
   ],
@@ -81,6 +60,6 @@
   "repelStrength": 9.08523908523909,
   "linkStrength": 0.853430353430353,
   "linkDistance": 193,
-  "scale": 0.2728055862686166,
+  "scale": 0.23075331829062992,
   "close": true
 }
